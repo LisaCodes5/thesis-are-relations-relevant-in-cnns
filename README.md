@@ -26,8 +26,11 @@ The code for training and testing the CNNs and FCNs is inspired by or partly fro
 
 ## References
 [1] Khalil Khan, Massimo Mauro, Riccardo Leonardi, "Multi-class semantic segmentation of faces", IEEE International Conference on Image Processing (ICIP), 2015
-[2] Johannes Rabold, Gesina Schwalbe, Ute Schmid, "Expressive explanations of dnns by combining concept analysis with ILP", Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2020
-[3] https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL 
-[4] https://towardsdatascience.com/implementing-a-fully-convolutional-network-fcn-in-tensorflow-2-3c46fb61de3b
-[5] Joachim Steinwender, Roland Schwaiger, "Neuronale Netze programmieren mit Python", Rheinwerk Verlag, 2020
 
+[2] Johannes Rabold, Gesina Schwalbe, Ute Schmid, "Expressive explanations of dnns by combining concept analysis with ILP", Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2020
+
+[3] https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL 
+
+[4] https://towardsdatascience.com/implementing-a-fully-convolutional-network-fcn-in-tensorflow-2-3c46fb61de3b
+
+[5] Joachim Steinwender, Roland Schwaiger, "Neuronale Netze programmieren mit Python", Rheinwerk Verlag, 2020
