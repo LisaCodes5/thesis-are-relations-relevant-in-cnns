@@ -17,7 +17,7 @@ In here is the code for all training and testing regarding the CNNs. For every J
 In here is the code for all training and testing regarding the FCNs. For every Jupyter notebook I created a PDF containing code+results, because sometimes I had a weird issue, where for no reasons the result was gone and only the code was still there.
 
 ## Known issues
-A mistake made its way into the training testing code: The loss is displayed as percentage, please ignore that.
+A mistake made its way into the training/testing code: The loss is displayed as a percentage, please ignore that.
 Although I've written "baseline" dataset in my thesis, the code refers to "basis" data as this was the previous title.
 
 ## Code
