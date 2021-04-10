@@ -22,7 +22,7 @@ Although I've written "baseline" dataset in my thesis, the code refers to "basis
 
 ## Code
 The code for generating the images is the one used in [2] only altered slightly.
-The code for training and testing the CNNs and FCNs is inspired by or partly from [3],[4] and [5]
+The code for training and testing the CNNs and FCNs is inspired by or partly from [3], [4] and [5]
 
 ## References
 [1] Khalil Khan, Massimo Mauro, Riccardo Leonardi, "Multi-class semantic segmentation of faces", IEEE International Conference on Image Processing (ICIP), 2015
